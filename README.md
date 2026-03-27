@@ -1,2 +1,0 @@
-# ElectivaProfundizacion
-Archivos
